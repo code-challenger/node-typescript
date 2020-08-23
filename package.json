@@ -1,5 +1,4 @@
 {
-  "name": "crm",
   "version": "1.0.0",
   "description": "An API built with NodeJS, Express, MongoDB and TypeScript",
   "main": "dist/server.js",
